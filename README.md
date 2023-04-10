@@ -9,6 +9,8 @@ The folders have the following content:<br>
    Plugin with ABCD institutional logo.<br>
 <b>youtubeBlock</b><br>
 Plugin to add Youtube video on journal page.<br>
+<b>languageToggle</b><br>
+OJS plugin for changing language with country flags<br>
 
 
 <hr>
@@ -50,7 +52,8 @@ As pastas tem o seguinte conteúdo:<br>
   Plugin com logo institucional da ABCD.<br>
 	<b>youtubeBlock</b><br>
 Plugin para adicionar vídeo do Youtube em página de revistas.<br>
-
+<b>languageToggle</b><br>
+Troca de idioma com bandeiras
 
 <hr>
 <b><h1>generic</h1></b><br>
