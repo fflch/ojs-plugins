@@ -21,8 +21,8 @@ OJS plugin for changing language with country flags<br>
    Plugin to display the language of the article directly in the URL links and in the Google Scholar index file.<br>
 <b>relationalDoi</b><br>
 Plugin to show the individual DOI's of files directly on the articles page through a button.<br>
-
-
+<b>viewcounter</b><br>
+   Plugin that demonstrates the number of accesses and downloads of articles.<br>
 
 <hr>
 <b><h1>extras</h1></b><br>
@@ -63,7 +63,8 @@ Troca de idioma com bandeiras
   Plugin para mostrar idioma do artigo diretamente nos links URL e no arquivo de indexação do Google Schoolar.<br>
 	<b>relationalDoi</b><br>
 Plugin para mostrar os DOI's individuais de arquivos diretamente na página de artigos através de um botão.<br>
-
+<b>viewcounter</b><br>
+   Plugin genérico que demonstra a quantidade de acessos e downloads de artigos.<br>
 
 
 <hr>
