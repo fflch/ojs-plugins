@@ -5,23 +5,23 @@ Central directory of plugins for OJS developed by <b>ABCD</b> and <b>FFLCH</b> f
 The folders have the following content:<br>
 <hr>
 <b><h1>blocks</h1></b><br>
-<b>logoABCD</b><br>
+<b>-logoABCD</b><br>
    Plugin with ABCD institutional logo.<br>
-<b>youtubeBlock</b><br>
+<b>-youtubeBlock</b><br>
 Plugin to add Youtube video on journal page.<br>
-<b>languageToggle</b><br>
+<b>-languageToggle</b><br>
 OJS plugin for changing language with country flags<br>
 
 
 <hr>
 <b><h1>generic</h1></b><br>
-<b>issuegridlock</b><br>
+<b>-issuegridlock</b><br>
    Plugin to avoid confusion when reordering articles in edit sections.<br>
-<b>pdfUrl</b><br>
+<b>-pdfUrl</b><br>
    Plugin to display the language of the article directly in the URL links and in the Google Scholar index file.<br>
-<b>relationalDoi</b><br>
+<b>-relationalDoi</b><br>
 Plugin to show the individual DOI's of files directly on the articles page through a button.<br>
-<b>viewcounter</b><br>
+<b>-viewcounter</b><br>
    Plugin that demonstrates the number of accesses and downloads of articles.<br>
 
 <hr>
@@ -48,22 +48,22 @@ Diretório central de plugins para OJS desenvolvidos por <b>ABCD</b> e <b>FFLCH<
 As pastas tem o seguinte conteúdo:<br>
 <hr>
 <b><h1>blocks</h1></b><br>
-	<b>logoABCD</b><br>
+	<b>-logoABCD</b><br>
   Plugin com logo institucional da ABCD.<br>
-	<b>youtubeBlock</b><br>
+	<b>-youtubeBlock</b><br>
 Plugin para adicionar vídeo do Youtube em página de revistas.<br>
-<b>languageToggle</b><br>
+<b>-languageToggle</b><br>
 Troca de idioma com bandeiras
 
 <hr>
 <b><h1>generic</h1></b><br>
-	<b>issuegridlock</b><br>
+	<b>-issuegridlock</b><br>
   Plugin para evitar confusões em reordenamento de artigos em seções de edições.<br>
-	<b>pdfUrl</b><br>
+	<b>-pdfUrl</b><br>
   Plugin para mostrar idioma do artigo diretamente nos links URL e no arquivo de indexação do Google Schoolar.<br>
-	<b>relationalDoi</b><br>
+	<b>-relationalDoi</b><br>
 Plugin para mostrar os DOI's individuais de arquivos diretamente na página de artigos através de um botão.<br>
-<b>viewcounter</b><br>
+<b>-viewcounter</b><br>
    Plugin genérico que demonstra a quantidade de acessos e downloads de artigos.<br>
 
 
